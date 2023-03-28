@@ -9,7 +9,6 @@
 
 body{
     width: 400px;
-    background-color: #E5E5E5;
     margin: 0 auto;
     padding: 36px;
     font-family: Roboto;
@@ -58,7 +57,6 @@ h1{
 
 .div3{
     width: 225px;
-    height: 93px;
     background-color: #1E4681;
     padding: 12px;
     color: white;
@@ -130,6 +128,7 @@ h2{
 
 .abc{
     display: flex;
+    flex-wrap: wrap;
 }
 
 .af{
@@ -414,3 +413,302 @@ li{
     display: none;
 }
 
+/* desktop */
+
+@media(min-width: 1280px){
+    body {
+        width: 1440px;
+    }
+    .eert{
+        display: flex;
+    }
+    .ant{
+        display: flex;
+        flex-direction: column;
+    }
+    .dsd{
+        width: 350px;
+        font-size: 80px;
+    }
+    .div3{
+        width: 480px;
+        margin: 0 auto;
+        margin-top: 50px;
+    }
+    .p2 {
+        font-size: 25px;
+    }
+    .p3 {
+        font-size: 20px;
+    }
+
+    .aaa{
+    /* width: 100%; */
+
+
+    }
+    .abc{
+        display: flex;
+        align-items: center;
+        margin-left: 100px;
+    }
+    .mm1{
+        width: 235px;
+        height: 205px;
+        display: inline;
+        margin-left: 120px;
+        margin-top: 50px;
+    }
+    
+    .ddd{
+        display: flex;
+    }
+
+    .af{
+        margin-top: 0;
+    }
+    .ddd{
+        margin: 0 auto;
+    }
+    .p1{
+        font-size: 20px;
+    }
+
+    .img5{
+        width: 308px;
+        height: 356px;
+    }
+
+    .eert{
+        width: 100%;
+    }
+
+    .ant{
+        width: 600px;
+
+    }
+
+    .dsd{
+        width: 100%;
+
+    }
+
+    .div2{
+        margin-left: 200px;
+    }
+
+    .dfg{
+        width: 450px;
+
+    }
+    .hhh{
+        font-size: 55px;
+    }
+    .pp{
+        font-size: 24px;
+    }
+    .img6{
+        width: 315px;
+        height: 315px;
+        margin-left: 100px;
+    }
+    .abx{
+        display: flex;
+        align-items: center;
+    }
+
+    .bb{
+        width: 60%;
+    }
+    .oo{
+        width: 150px;
+        font-size: 25px;
+    }
+    .ww{
+        font-size: 18px;
+    }
+    .aaa{
+        width: 200px;
+    }
+    .qwe{
+        margin-left: 50px;
+        font-size: 55px;
+    }
+    .ghgh{
+        font-size: 25px;
+        width: 300px;
+    }
+    .nm{
+        font-size: 20;
+        width: 150px;
+        margin-top: 10px;
+    }
+    .afg{
+        width: 100%;
+        font-size: 55px;
+    }
+    .la{
+        align-items: center;
+        display: flex;
+        justify-content: baseline;
+    }
+    .ca{
+        margin-right: 50px;
+    }
+    li{
+        font-size: 24px;
+    }
+    .uii{
+     font-size: 55px;}
+     .op{
+        font-size: 30px;
+     }
+     .ae{
+        font-size: 25px;
+     }
+
+
+     ul{
+        width: 662px;
+        height: 374px;
+     }
+
+     .rrr{
+        width: 400px;
+        height: 330px;
+        margin: 10px;
+     }
+
+     .yyy{
+        width: 400px;
+        height: 160px;
+     }
+
+     .op, .ae{
+        margin-left: 30px;
+        margin-top: 15px;
+     }
+
+     .sah1, .sah2, .sah3{
+        display: flex;
+     }
+
+     .tt, .rrt, .fff{
+        width: 90%;
+        height: 800px;
+     }
+     .asd{
+        width: 800px;
+        height: 450px;
+     }
+     .lkk{
+        font-size: 20px;
+     }
+     .sd{
+        display: flex;
+        flex-direction: row-reverse;
+        margin-right: 230px;
+        margin-top: 50px;
+     }
+     .dff{
+        margin-top: 50px;
+        width: 100%;
+        font-size: 55px;
+        margin-bottom: 50px;
+     }
+     .tt{
+        padding-left: 60px;
+     }
+     .ff{
+        font-size: 30px;
+        width: 350px;
+     }
+     .wwq{
+        width: 32px;
+        height: 31px;
+     }
+     .wwe{
+        width: 190px;
+        height: 170px;
+     }
+     .rrt{
+        padding: 70px;
+     }
+     .nn{
+        font-size: 55px;
+        width: 900px;
+        margin-bottom: 70px;
+     }
+     .kj{
+        font-size: 25px;
+        width: 170px;
+     }
+     .kk{
+        font-size: 80px;
+        width: 480px;
+        margin-bottom: 70px;
+     }
+     .ass{
+        font-size: 25px;
+        width: 295px;
+     }
+     .cc{
+        font-size: 18px;
+        width: 295px;
+        height: 100px;
+        line-height: 20px;
+        margin-top: 20px;
+     }
+     .d1{
+        font-size: 25px;
+        width: 230px;
+        height: 40px;
+     }
+     .d2{
+        font-size: 25px;
+        width: 270px;
+        height: 40px;
+     }
+     .d3{
+        font-size: 18px;
+        width: ;
+        height: ;
+     }
+     .aw{
+        width: 700px;
+     }
+     .av{
+        width: 350px;
+     }
+
+     .fff{
+        height: 400px;
+     }
+     .w1{
+        width: 115px;
+        height: 68px;
+     }
+     .w2{
+        width: 35px;
+        height: 35px;
+     }
+     .rte{
+        width: 27px;
+        height: 27px;
+     }
+     .rte2{
+        width: 27px;
+        height: 18px;
+     }
+
+
+
+
+
+
+
+
+
+
+
+    }
