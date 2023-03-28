@@ -413,6 +413,160 @@ li{
     display: none;
 }
 
+@media(min-width: 992px) and (max-width: 1279px){
+    body{
+        width: 90%;
+        margin: 0 auto;
+    }
+    
+    
+    .kjk{
+        display: flex;
+    }
+    h1{
+        width: 440px;
+        font-size: 46px;
+    }
+    .img5{
+        width: 176px;
+        height: 206px;
+    }
+    .p1{
+        font-size: 12px;
+    }
+    .div3{
+        margin: 0 auto;
+        width: 280px;
+        height: 115px;
+        margin-top: 40px;
+    }
+    .p2{
+        font-size: 14px;
+    }
+    .p3{
+        font-size: 12px;
+    }
+    .hhh{
+        margin-top: 100px;
+        font-size: 32px;
+        margin-bottom: 40px;
+    }
+    .pp{
+        font-size: 14px;
+        margin-top: 15px;
+    }
+    .abx{
+        display: flex;
+        margin: 0 auto;
+    }
+    .img6{
+        width: 182px;
+        height: 183px;
+        margin-top: 180px;
+        margin-left: 110px;
+    }
+    .uy{
+        width: 383px;
+    }
+    .mm1{
+        display: inline;
+        width: 134px;
+        height: 117px;
+    }
+    .ddd{
+        display: flex;
+        align-items: center;
+    }
+    .af{
+        margin-top: 0;
+    }
+    .abc{
+        margin-left: 80px;
+    }
+    .oo{
+        font-size: 15px;
+    }
+    .ww{
+        margin-top: 10px;
+        font-size: 11px;
+    }
+    .qwe{
+        font-size: 32px;
+        margin-top: 134px;
+    }
+    .la{
+        display: flex;
+        width: 100%;
+    }
+    .ghgh{
+        font-size: 15px;
+        margin-top: 60px;
+    }
+    .nm{
+        font-size: 11px;
+        margin-top: 5px;
+    }
+    .ca{
+        width: 150px;
+        margin-right: 50px;
+    }
+    .afg{
+       font-size: 32px; 
+       margin-top: 145px;
+    }
+    .ulli{
+        font-size: 14px;
+        margin-top: 24px;
+        margin-bottom: 143px;
+    }
+    .uii{
+        font-size: 32px;
+    }
+    .sah1{
+        display: flex;
+    }
+    .sah2{
+        display: flex;
+    }
+    .sah3{
+        display: flex;
+    }
+    .bigd{
+        margin-top: 50px;
+    }
+    .rrr{
+        margin: 10px;
+        width: 231px;
+        height: 190px;
+    }
+    .yyy{
+        width: 231px;
+        height: 92px;
+    }
+    .op{
+        font-size: 17px;
+    }
+    .ae{
+        font-size: 14px;
+    }
+    .tt, .rrt, .fff{
+        width: 100%;
+    }
+.tt, .rrt{
+    height: 450px;
+    padding: 50px;
+    padding-left: 70px;
+}.asd{
+    width: 460px;
+    height: 260px;
+}
+.dff{
+    width: 100%;
+}
+
+
+}
+
 /* desktop */
 
 @media(min-width: 1280px){
@@ -709,6 +863,4 @@ li{
 
 
 
-
-
-    }
+}
