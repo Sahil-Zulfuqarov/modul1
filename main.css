@@ -409,9 +409,11 @@
         margin-top: 40px;
     }
 
-    .mm1{
-        display: none;
-    }
+.mm1{
+    display: none;
+}
+
+/* tablet */
 
 @media(min-width: 992px) and (max-width: 1279px){
     body{
@@ -419,6 +421,13 @@
         margin: 0 auto;
     }
     
+    .sd{
+        margin-right: 170px;
+    }
+
+    .dff{
+        margin-bottom: 30px;
+    }
     
     .kjk{
         display: flex;
@@ -554,17 +563,70 @@
     }
     .tt, .rrt{
         height: 450px;
-        padding: 50px;
-        padding-left: 70px;
-    }.asd{
+    }
+
+    .asd{
         width: 460px;
         height: 260px;
     }
     .dff{
         width: 100%;
     }
+    .nn{
+        font-size: 32px;
+        width: 100%;
+    }
+    .aas{
+        font-size: 14px;
+    }
+    .cc{
+        font-size: 10px;
+        margin-top: 10px;
+    }
+    .tt, .rrt{
+        height: 450px;
+        padding: 50px;
+        padding-left: 70px;
+    }
+    .asd{
+        width: 460px;
+        height: 260px;
+    }
+    .dff{
+        width: 100%;
+    }
+    .weqb {
+        display: flex;
+        justify-content: space-between;
+    }
 
+    .kj{
+        font-size: 14px;
+        margin-top: 30px;
+    }
+    .kk{
+        font-size: 46px;
+    }
+    .rrt{
+        padding-left: 70px;
+        padding-top: 100px;
+    }
+    .av{
+        margin-right: 50px;
+    }
+    .fff{
+        padding-top: 30px;
+        padding-left: 70px;
+        padding-right: 90px;
+    }
 
+    .d3{
+        margin-top: 80px;
+    }
+
+    .tt{
+        margin-top: 50px;
+    }
 }
 
 /* desktop */
